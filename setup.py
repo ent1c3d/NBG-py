@@ -8,4 +8,5 @@ setup(name='nbg-py',
       author_email='ent1c3d@gmail.com',
       license='MIT',
       packages=['nbg'],
-      zip_safe=False)
+      classifiers=[],
+      )

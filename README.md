@@ -7,7 +7,7 @@ National Bank of Georgia currency webservice API wrapper in Python
 You can install this package using pip
 
 ```
-$ pip install
+$ pip install nbg-py
 ```
 
 Or just clone it from Github
